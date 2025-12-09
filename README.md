@@ -1,8 +1,8 @@
 # Property Inference Attacks on Federated Learning in Smart Home IoT Networks
 
 Team Work done by:
-** Akshitha Priyadarshini Murugan **
-** Fino Franklin John Bosco ** 
+**Akshitha Priyadarshini Murugan**
+**Fino Franklin John Bosco** 
 
 
 **Detection, Exploitation, and Privacy-Enhancing Countermeasures**
